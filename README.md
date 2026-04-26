@@ -26,22 +26,6 @@ A full-stack Todo application built using the MERN stack with authentication and
 
 ---
 
-## 📂 Project Structure
-
-todo-app/
-|
-|--client/
-|    |--src/
-|     --...
-|--server/
-|    |--models/
-|    |--routes/
-|    |--controllers/
-|     --...
- --README.md
-
----
-
 ## ⚙️ Installation & Setup
 
 - Clone the repository
